@@ -25,7 +25,7 @@ public class MineSweeperBoard extends Panel {
 		//initializing instance variables
 		hasLost = false;
 		myRandomGenerator = new Random();
-		numberBombs = 10;
+		numberBombs = 15;
 		startingxLoc = 60;
 		startingyLoc = 60;
 		squareWidth = 30;
